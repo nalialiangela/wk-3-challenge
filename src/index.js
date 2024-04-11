@@ -62,7 +62,7 @@ function updateDom(movies){
     let availabiity;
 
     if(remaining > 0){
-        availabiity = "Buy Tickt"
+        availabiity = "Buy Ticket"
     }else{
         availabiity = "Sold out"
     }

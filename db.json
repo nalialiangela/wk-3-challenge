@@ -1,16 +1,6 @@
 {
   "films": [
     {
-      "id": "1",
-      "title": "The Giant Gila Monster",
-      "runtime": "108",
-      "capacity": 30,
-      "showtime": "04:00PM",
-      "tickets_sold": 27,
-      "description": "A giant lizard terrorizes a rural Texas community and a heroic teenager attempts to destroy the creature.",
-      "poster": "https://www.gstatic.com/tv/thumb/v22vodart/2157/p2157_v_v8_ab.jpg"
-    },
-    {
       "id": "2",
       "title": "Manos: The Hands Of Fate",
       "runtime": "118",
@@ -36,7 +26,7 @@
       "runtime": "101",
       "capacity": 40,
       "showtime": "09:00PM",
-      "tickets_sold": 31,
+      "tickets_sold": 32,
       "description": "A young man meets a farm girl who is actually a witch.",
       "poster": "https://www.gstatic.com/tv/thumb/v22vodart/43468/p43468_v_v8_aa.jpg"
     },
@@ -127,7 +117,7 @@
       "runtime": "100",
       "capacity": 40,
       "showtime": "09:00PM",
-      "tickets_sold": 31,
+      "tickets_sold": 33,
       "description": "A stock car driver goes undercover as the wheel man for a motorcycle gang.",
       "poster": "https://www.gstatic.com/tv/thumb/v22vodart/45367/p45367_v_v8_aa.jpg"
     },
@@ -147,12 +137,46 @@
       "runtime": "98",
       "capacity": 50,
       "showtime": "04:45PM",
-      "tickets_sold": 33,
+      "tickets_sold": 34,
       "description": "Delinquent teen-agers ingest a substance and grow thirty feet tall, then proceed to take over a small town.",
       "poster": "https://www.gstatic.com/tv/thumb/v22vodart/37991/p37991_v_v8_aa.jpg"
     }
   ],
-  "tickets":[
-
+  "tickets": [
+    {
+      "id": "db88",
+      "film_id": "1",
+      "number_of_tickets": 2
+    },
+    {
+      "id": "7a7b",
+      "film_id": "1",
+      "number_of_tickets": 1
+    },
+    {
+      "id": "fc30",
+      "film_id": "1",
+      "number_of_tickets": 0
+    },
+    {
+      "id": "b153",
+      "film_id": "4",
+      "number_of_tickets": 8
+    },
+    {
+      "id": "f913",
+      "film_id": "13",
+      "number_of_tickets": 8
+    },
+    {
+      "id": "71ac",
+      "film_id": "13",
+      "number_of_tickets": 7
+    },
+    {
+      "id": "4e8c",
+      "film_id": "15",
+      "number_of_tickets": 16
+    }
   ]
 }
